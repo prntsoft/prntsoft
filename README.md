@@ -1,4 +1,10 @@
-## Hi there 👋
+<h3 align="center">Hi, prntsoft.</h3>
+
+--- 
+
+love coding
+
+[![Technologies](https://skillicons.dev/icons?i=git,vscode,js,java,ts,lua,html,css,kotlin,python)]()
 
 <!--
 **prntsoft/prntsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
