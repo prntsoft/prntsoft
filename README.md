@@ -4,7 +4,7 @@
 
 love coding
 
-[![Technologies](https://skillicons.dev/icons?i=git,vscode,js,java,ts,lua,html,css,kotlin,python)]()
+[![Technologies](https://skillicons.dev/icons?i=git,vscode,js,java,ts,php,lua,html,css,kotlin,python)]()
 
 <!--
 **prntsoft/prntsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
